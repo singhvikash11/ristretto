@@ -28,7 +28,7 @@ import (
 	"time"
 	"unsafe"
 
-	"github.com/dgraph-io/ristretto/z"
+	"github.com/singhvikash11/ristretto/z"
 )
 
 var (
