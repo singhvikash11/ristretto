@@ -24,7 +24,7 @@ import (
 	"strings"
 	"unsafe"
 
-	"github.com/dgraph-io/ristretto/z/simd"
+	"github.com/singhvikash11/ristretto/z/simd"
 )
 
 var (

@@ -4,7 +4,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/dgraph-io/ristretto/z"
+	"github.com/singhvikash11/ristretto/z"
 	"github.com/stretchr/testify/require"
 )
 
